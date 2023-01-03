@@ -1,0 +1,25 @@
+{
+  "common": {
+      "version": "версія",
+      "current": "поточна"
+  },
+  "editor": {
+    "card": {
+      "climate": {
+        "disable_window": "Вимкнути вікно",
+        "disable_summer": "Вимкнути літо",
+        "disable_eco": "Вимкнути еко",
+        "disable_heat": "Вимкнути тепло",
+        "disable_off": "Вимкнути вимк.",
+        "eco_temperature": "Еко температура",
+        "set_current_as_main": "Поміняти місцями мету з поточною температурою"
+      }
+    }
+  },
+  "extra_states": {
+    "window_open": "Вікно відчинене",
+    "night_mode": "Нічний режим",
+    "eco": "Еко",
+    "summer": "Літо"
+  }
+}
